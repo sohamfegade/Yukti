@@ -1,4 +1,4 @@
-# Yukti (Cogniscope) - AI Decision & Visualization Lab
+# Yukti - AI Decision & Visualization Lab
 
 "See AI Think. Trace Every Decision. Understand the Intelligence."
 
